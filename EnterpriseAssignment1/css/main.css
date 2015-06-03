@@ -1,0 +1,16 @@
+﻿body {
+    background-color:#6b6b6b;
+    color:red !important;
+}
+#gamePanel{
+    padding:15px;
+    border:6px ridge #f87878;
+    
+
+}
+#totals{
+    border:6px ridge #f87878;
+    padding 15px;
+}
+
+
